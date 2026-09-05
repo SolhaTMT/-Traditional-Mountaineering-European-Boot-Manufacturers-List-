@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Trad Euro Mountaineering Boot MFGs
+title: Trad Euro Mtn Boot MFGs
 ---
 Here is an **ever updating** compiled list of some boot manufacturers that offer mountaineering models based on the classics **most models** will have a single piece upper **but not all**. The links are of model lineups when possible or links to the entire catalogue when no filter is available. The models listed here are only part of their mountaineering and work lineup, and it doesn't reflect their full catalogue which might be of interest to some.
 
