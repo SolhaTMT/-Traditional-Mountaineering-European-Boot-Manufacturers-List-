@@ -1,3 +1,8 @@
+---
+layout: default
+title: Mountaineering & Work Boot Manufacturers
+---
+
 This was reposted on May 16th 2026 due to removal by Reddit's filters
 
 Here is an **ever updating** compiled list of some boot manufacturers that offer mountaineering models based on the classics **most models** will have a single piece upper **but not all**. The links are of model lineups when possible or links to the entire catalogue when no filter is available. The models listed here are only part of their mountaineering and work lineup, and it doesn't reflect their full catalogue which might be of interest to some.
