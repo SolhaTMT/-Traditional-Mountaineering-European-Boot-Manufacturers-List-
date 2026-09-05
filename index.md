@@ -253,7 +253,7 @@ French boots seem to be more catered towards lifestyle than mountaineering and w
 Lifestyle
 
 * NPS Solovair
-   * [Hiker Boot](https://eu.nps-solovair.com/collections/solovair?pf_mlt_style=Hiker-Boot)
+   * [Urban Hiker](https://eu.nps-solovair.com/search?type=product%2Cpage&options%5Bprefix%5D=last&q=Hiker)
 
 ---
 
@@ -262,8 +262,7 @@ Lifestyle
 Mountain & Work
 
 * Jim Green
-   * [Hike](https://jimgreenfootwear.de/en/collections/wandern) \- Razorback and Mean Machine
-   * [6 Inch Lace-up Boots](https://jimgreenfootwear.de/en/collections/6-zoll-klassischer-schnurstiefel) \- Baobab and Numzaan seem to be whole cut boots
+   * [Hiking & Adventure](https://jimgreenfootwear.eu/product-category/hiking-adventure/) \- Razorback, Baobab and Numzaan seem to be whole cut boots
 
 ---
 
