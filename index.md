@@ -244,7 +244,7 @@ French boots seem to be more catered towards lifestyle than mountaineering and w
 
 ---
 
-NON EUROPEAN UNION MANUFACTURERS
+**NON EUROPEAN UNION MANUFACTURERS**
 
 ---
 
