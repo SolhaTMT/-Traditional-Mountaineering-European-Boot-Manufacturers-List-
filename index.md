@@ -119,7 +119,7 @@ Bespoke work
 
 * [Svienty](https://svienty.cz/en/products-en/)
 
-The following is website is a store that usually have custom models mostly made by Steinkogler, they also have a blog about mountain boots check them out
+The following is website is a store which usually has custom models mostly made by Steinkogler, they also have a blog about mountain boots check them out
 
 * [Festovní věci](https://festovniveci.cz/) 
 
