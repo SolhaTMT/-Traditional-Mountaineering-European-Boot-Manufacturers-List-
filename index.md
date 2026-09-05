@@ -2,9 +2,6 @@
 layout: default
 title: Mountaineering & Work Boot Manufacturers
 ---
-
-This was reposted on May 16th 2026 due to removal by Reddit's filters
-
 Here is an **ever updating** compiled list of some boot manufacturers that offer mountaineering models based on the classics **most models** will have a single piece upper **but not all**. The links are of model lineups when possible or links to the entire catalogue when no filter is available. The models listed here are only part of their mountaineering and work lineup, and it doesn't reflect their full catalogue which might be of interest to some.
 
 I have tried to only select artisans and manufacturers that have their own brands and make their own shoes and models, mostly trying to avoid white labels.
@@ -14,6 +11,8 @@ The list is **grouped by** **countries** and **ordered by** **price**, meaning t
 Some manufactures don't publish prices, you'll have to contact them privately
 
 Again keep in mind these are not their entire catalogue and you pay for what you get:
+
+---
 
 Portuguese and Spanish boots seem to be the cheapest and also made of a lighter construction
 
@@ -29,6 +28,8 @@ Lifestyle
       * [Sherpa](https://eliteshoes.pt/en/products/sherpa)
 * Carlos Santos
    * [Boots](https://www.santosshoes.com/en/shoes-for-man/boots/lace-up-boots-for-men)
+
+---
 
 **Spain**
 
@@ -46,6 +47,9 @@ Lifestyle
    * [16546 Miles Evolution Tang](https://sendra.com/products/16546-milles-evolution-tang)
 * Meermin - Spanish brand but their shoes are made in Shanghai China
    * [516690](https://eu.meermin.com/collections/mens-boots/products/516690-black-calf-e-ultraflex-system-2)
+
+---
+
 
 **Italy**
 
@@ -108,6 +112,9 @@ Lifestyle
 
 Boots from **Slovakia**, **Germany** and **Austrian**, are on the higher margin of the price range, but their offerings are also of heavier boots
 
+---
+
+
 **Czechia**
 
 Bespoke work
@@ -118,11 +125,17 @@ The following is website is a store that usually have custom models mostly made 
 
 * [Festovní věci](https://festovniveci.cz/) 
 
+---
+
+
 **Slovakia**
 
 Mountain - no work boots
 
 * [Makara](https://makaraobuv.sk/en/products/)
+
+---
+
 
 **Germany**
 
@@ -185,6 +198,9 @@ Lifestyle
    * [Glärnisch Men Edition](https://www.schuh-keller.de/outdoorschuhe-zubehoer/keller-glaernisch-men-edition-38356.html)
    * [Glärnisch Lady Edition](https://www.schuh-keller.de/outdoorschuhe-zubehoer/keller-glaernisch-lady-edition.html)
 
+---
+
+
 **Austria**
 
 Mountain and Work
@@ -211,6 +227,9 @@ Lifestyle
    *  [Après Ski Black](https://www.ludwig-reiter.com/de/damen/stiefeletten-damen/apresski-vintage-pullup-damen-schwarz.html) 
    * [Après Ski Burgundy](https://www.ludwig-reiter.com/de/damen/stiefeletten-damen/apresski-veloursleder-herbstrot.html) 
 
+---
+
+
 **France**
 
 French boots seem to be more catered towards lifestyle than mountaineering and work with the exception being one of the Richard Pontvert's brands: Paraboot Pro
@@ -229,7 +248,13 @@ French boots seem to be more catered towards lifestyle than mountaineering and w
 * J.M. Weston
    * [GRW Hiking Boots](https://eu.jmweston.com/en/products/bottine-de-montagne-grw-homme-cuir-veau-gras-noir-et-nubuck-noir)
 
+---
+
+
 NON EUROPEAN UNION MANUFACTURERS
+
+---
+
 
 **United Kingdom**
 
@@ -238,6 +263,9 @@ Lifestyle
 * NPS Solovair
    * [Hiker Boot](https://eu.nps-solovair.com/collections/solovair?pf_mlt_style=Hiker-Boot)
 
+---
+
+
 **South Africa**
 
 Mountain & Work
@@ -245,5 +273,8 @@ Mountain & Work
 * Jim Green
    * [Hike](https://jimgreenfootwear.de/en/collections/wandern) \- Razorback and Mean Machine
    * [6 Inch Lace-up Boots](https://jimgreenfootwear.de/en/collections/6-zoll-klassischer-schnurstiefel) \- Baobab and Numzaan seem to be whole cut boots
+
+---
+
 
 I'm open for suggestions and I hope this list helps those that are looking to buy some traditional mountaineering boots.

@@ -1,7 +1,5 @@
 # Mountaineering & Work Boot Manufacturers
 
-An ever-updating, hand-curated list of boot manufacturers making traditional mountaineering and work boots, grouped by country and roughly ordered by price.
-
 **Live site:** https://SolhaTMT.github.io/-Traditional-Mountaineering-European-Boot-Manufacturers-List-/
 
 Here is an ever updating compiled list of some boot manufacturers that offer mountaineering models based on the classics most models will have a single piece upper but not all. The links are of model lineups when possible or links to the entire catalogue when no filter is available. The models listed here are only part of their mountaineering and work lineup, and it doesn't reflect their full catalogue which might be of interest to some.
