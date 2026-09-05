@@ -14,9 +14,9 @@ Again keep in mind these are not their entire catalogue and you pay for what you
 
 ---
 
-Portuguese and Spanish boots seem to be the cheapest and also made of a lighter construction
-
 **Portugal**
+
+Portuguese and Spanish boots seem to be the cheapest and also made of a lighter construction
 
 Lifestyle
 
