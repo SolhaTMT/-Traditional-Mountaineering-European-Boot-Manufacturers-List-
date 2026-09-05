@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Euro Mountaineering Boot MFGs
+title: Trad Euro Mountaineering Boot MFGs
 ---
 Here is an **ever updating** compiled list of some boot manufacturers that offer mountaineering models based on the classics **most models** will have a single piece upper **but not all**. The links are of model lineups when possible or links to the entire catalogue when no filter is available. The models listed here are only part of their mountaineering and work lineup, and it doesn't reflect their full catalogue which might be of interest to some.
 
@@ -49,7 +49,6 @@ Lifestyle
    * [516690](https://eu.meermin.com/collections/mens-boots/products/516690-black-calf-e-ultraflex-system-2)
 
 ---
-
 
 **Italy**
 
@@ -114,7 +113,6 @@ Boots from **Slovakia**, **Germany** and **Austrian**, are on the higher margin 
 
 ---
 
-
 **Czechia**
 
 Bespoke work
@@ -127,7 +125,6 @@ The following is website is a store that usually have custom models mostly made 
 
 ---
 
-
 **Slovakia**
 
 Mountain - no work boots
@@ -135,7 +132,6 @@ Mountain - no work boots
 * [Makara](https://makaraobuv.sk/en/products/)
 
 ---
-
 
 **Germany**
 
@@ -200,7 +196,6 @@ Lifestyle
 
 ---
 
-
 **Austria**
 
 Mountain and Work
@@ -229,7 +224,6 @@ Lifestyle
 
 ---
 
-
 **France**
 
 French boots seem to be more catered towards lifestyle than mountaineering and work with the exception being one of the Richard Pontvert's brands: Paraboot Pro
@@ -250,11 +244,9 @@ French boots seem to be more catered towards lifestyle than mountaineering and w
 
 ---
 
-
 NON EUROPEAN UNION MANUFACTURERS
 
 ---
-
 
 **United Kingdom**
 
@@ -265,7 +257,6 @@ Lifestyle
 
 ---
 
-
 **South Africa**
 
 Mountain & Work
@@ -275,6 +266,5 @@ Mountain & Work
    * [6 Inch Lace-up Boots](https://jimgreenfootwear.de/en/collections/6-zoll-klassischer-schnurstiefel) \- Baobab and Numzaan seem to be whole cut boots
 
 ---
-
 
 I'm open for suggestions and I hope this list helps those that are looking to buy some traditional mountaineering boots.
